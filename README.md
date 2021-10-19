@@ -1,3 +1,6 @@
+Personal fork by the author of UWAC
+
+
 # Uncertainty Weighted Actor Critic (UWAC)
 
 This is the official implementation of Uncertainty Weighted Actor Critic (UWAC) that accompanies the research paper, Uncertainty Weighted Actor Critic for Offline Reinforcement Learning (ICML 2021).
