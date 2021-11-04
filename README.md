@@ -9,6 +9,10 @@ Uncertainty Weighted Actor-Critic (UWAC), an algorithm detects OOD state-action 
 
 ## Getting Started
 This codebase is built off of the official implementation of BEAR (https://github.com/rail-berkeley/d4rl_evaluations/tree/master/bear) and rlkit (https://github.com/vitchyr/rlkit/). In order to run UWAC, follow the installation instructions for rlkit as shown below, then install D4RL(https://github.com/rail-berkeley/d4rl).
+```
+pip install -e .
+```
+
 
 Then in order to run UWAC, an example command is:
 ```
